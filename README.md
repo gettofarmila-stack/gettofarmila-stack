@@ -1,42 +1,21 @@
-# Саня Баранов
+### Backend Developer | Python & Asynchronous Systems
 
-BACKEND python developer
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![aiogram](https://img.shields.io/badge/aiogram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=python&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
----
-
-## PROJECTS
-
-🔹 Telegram бот для автонакрутки  
-Базовый магазин в тг, работа с апи 
-
-👉 https://github.com/gettofarmila-stack/sanya_nakrut
-
-🔹 Веселая ферма бот  
-Веселая игра про веселую ферму  
-
-👉 https://github.com/gettofarmila-stack/happy-farm-telegram-bot
+Стаж около 3 месяцев  
+Создаю ботиков в тг и всякое разное  
+Меня зовут Саня Баранов
 
 ---
 
-## 🛠️ STACK
-
-- Python
-- aiogram
-- SQLAlchemy
-- postreSQL
-- aiohttp
-- Alembic
-- asyncio
+### 📊 GitHub Stats
+![Stats](https://streak-stats.demolab.com?user=gettofarmila-stack&theme=dark&hide_border=true)
 
 ---
 
-## 📊 STATS
-
-![Stats](https://streak-stats.demolab.com?user=gettofarmila-stack)
-
----
-
-## 🌐 SOCIAL
-
-- Telegram: https://t.me/sanyalca
-- Discord: @farmilaz
+### 🔗 Connect
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/sanyalca) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/gettofarmila-stack)
