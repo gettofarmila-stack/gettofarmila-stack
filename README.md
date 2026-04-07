@@ -32,7 +32,7 @@ BACKEND python developer
 
 ## 📊 STATS
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=gettofarmila-stack&show_icons=true)
+![Stats](https://streak-stats.demolab.com?user=gettofarmila-stack)
 
 ---
 
