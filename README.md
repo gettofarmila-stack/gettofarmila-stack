@@ -5,10 +5,11 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=python&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-
-Стаж около 3 месяцев  
-Создаю ботиков в тг и всякое разное  
-Меня зовут Саня Баранов
+  
+Building Telegram bots, APIs, and automation tools  
+Interested in scalable backend architecture  
+Continuously learning and improving through real projects  
+Sasha Baranov
 
 ---
 
