@@ -6,7 +6,8 @@
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
   
-Building Telegram bots, APIs, and automation tools  
+ARCH LINUX
+Building Telegram bots, APIs  
 Interested in scalable backend architecture  
 Continuously learning and improving through real projects  
 Sasha Baranov
