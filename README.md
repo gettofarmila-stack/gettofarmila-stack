@@ -6,7 +6,7 @@
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
   
-ARCH LINUX
+ARCH LINUX  
 Building Telegram bots, APIs  
 Interested in scalable backend architecture  
 Continuously learning and improving through real projects  
