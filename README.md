@@ -15,7 +15,7 @@ Sasha Baranov
 ---
 
 ### 📊 GitHub Stats
-![Stats](https://streak-stats.demolab.com?user=gettofarmila-stack&theme=dark&hide_border=true)
+![Stats](https://streak-stats.demolab.com?user=bymyforge&theme=dark&hide_border=true)
 
 ---
 
